@@ -1,7 +1,8 @@
-package org.steganography.algorithm;
+package org.steganography.algorithm.impl;
 
 import java.awt.image.BufferedImage;
 
+import org.steganography.algorithm.SteganographyAlgorithm;
 import org.steganography.exception.SteganographyException;
 import org.steganography.util.Constants;
 
